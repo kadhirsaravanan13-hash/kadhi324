@@ -1,0 +1,8 @@
+{
+  "name": " GeminiConnect",
+  "description": "A high-fidelity real-time chat application featuring phone authentication simulation, delivery statuses, typing indicators, and AI-powered interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
